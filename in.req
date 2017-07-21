@@ -1,0 +1,12 @@
+ [ req ]
+ distinguished_name     = req_distinguished_name
+ prompt                 = no
+
+ [ req_distinguished_name ]
+ C                      = IN
+ ST                     = Karnataka
+ L                      = Bengaluru
+ O                      = Juspay technologies pvt ltd
+ CN                     = 192.168.99.100
+ emailAddress           = test@email.address
+
